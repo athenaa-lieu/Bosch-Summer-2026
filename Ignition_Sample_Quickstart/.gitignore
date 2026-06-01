@@ -1,0 +1,23 @@
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignition Database and Cache files
+**/db/
+**/metricsdb/
+**/autobackup/
+*.idb
+**/jar-cache/
+*.tmp
+*.bak
+
+# Ignition Log files
+*.log
+**/logs/
+
+# Security & Runtime
+**/certificates/
+**/keystore/
+*.resources/
+
