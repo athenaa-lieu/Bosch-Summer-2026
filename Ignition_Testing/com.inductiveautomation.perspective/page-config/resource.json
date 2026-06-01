@@ -1,0 +1,16 @@
+{
+  "scope": "G",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "config.json"
+  ],
+  "attributes": {
+    "lastModificationSignature": "6d229a9fad3eae28f84b7b4db1b4832fa5deb22143936e7375d7977c33da1350",
+    "lastModification": {
+      "actor": "athenabelle",
+      "timestamp": "2026-06-01T18:07:38Z"
+    }
+  }
+}
